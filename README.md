@@ -1,0 +1,2 @@
+# Data-Wrangling-we-rate-dogs-twitter
+WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. The account was started in 2015 by college student Matt Nelson, and has received international media attention both for its popularity and for the attention drawn to social media copyright law when it was suspended by Twitter for breaking these aforementioned laws. In this act I made some analysis and visualizations found below.
